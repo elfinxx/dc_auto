@@ -29,7 +29,7 @@ def get_desired_capabilities():
         'autoLaunch': False,
         'appPackage': 'com.NextFloor.DestinyChild',
         'appActivity': 'com.NextFloor.DestinyChild.MainActivity',
-        'newCommandTimeout': 240,
+        'newCommandTimeout': 0,
         'noReset': True
     }
 
